@@ -7,11 +7,7 @@ This repository is for those who are **starting their DSA journey** and want to 
 I’m following a list of **basic DSA questions** to strengthen my logic and gradually improve my problem-solving skills.
 
 ## 🎯 What I'm Doing
-
-* Solving DSA questions **level by level**
-* Writing the **code by myself**
-* Focusing on understanding the **logic and approach**
-* Practicing consistently to build a strong DSA foundation
+ 
 * Revisiting questions whenever needed
 
 ## 📌 Question List

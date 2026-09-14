@@ -1,40 +1,73 @@
-# 📚 DSA Practice — Building Strong Logic
+# 🧮 Calclayer
 
-Hi everyone! 👋
+A simple and beginner-friendly calculator project built to practice programming fundamentals and improve problem-solving skills.
 
-This repository is for those who are **starting their DSA journey** and want to build a strong foundation in problem-solving and logical thinking.
+## 🚀 Features
 
-I’m following a list of **basic DSA questions** to strengthen my logic and gradually improve my problem-solving skills.
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* 🔢 Basic arithmetic operations
+* 🧹 Clear / Reset functionality
+* 📱 Simple and clean interface
 
-## 🎯 What I'm Doing
- 
-* Revisiting questions whenever needed
+## 🛠️ Tech Stack
 
-## 📌 Question List
+* HTML
+* CSS
+* JavaScript
 
-I’m following **Nishchal’s DSA Question List** for practice.
+## 📂 Project Structure
 
-The questions are arranged in a structured, level-wise manner, which makes it easier to gradually improve from basic problems to more challenging ones.
+```text
+Calclayer/
+│
+├── index.html
+├── style.css
+└── script.js
+```
 
-## 💻 My Solutions
+## ▶️ How to Run
 
-For every question, I have added the **solution/code that I solved by myself**.
+1. Clone the repository:
 
-The goal is not just to get the correct answer, but to understand:
+```bash
+git clone <your-repository-url>
+```
 
-> **How to think, how to approach a problem, and how to build the logic behind the solution.**
+2. Open the project folder.
+3. Open `index.html` in your browser.
 
-## 🚀 Want to Practice?
+That's it! 🎉
 
-If you’re also starting with DSA, feel free to use the question sheet and practice alongside me.
+## 🎯 Purpose
 
-**Question Sheet:**
-👉 Nishchal's DSA Question List
+This project was created as part of my learning journey to strengthen my programming fundamentals, especially:
 
----
+* Variables
+* Functions
+* Conditions
+* DOM manipulation
+* Event handling
+* Basic JavaScript logic
 
-### ⭐ My Goal
+## 📸 Preview
 
-**Strong Logic → Consistent Practice → Better Problem Solving → SDE Journey 🚀**
+Add a screenshot of your project here:
 
-Let’s learn, solve, and improve one problem at a time. 💻🔥
+```md
+![Calclayer Preview](./preview.png)
+```
+
+## 🔮 Future Improvements
+
+* Scientific calculator
+* Keyboard support
+* Calculation history
+* Dark/Light mode
+* Responsive UI improvements
+
+## 👨‍💻 Author
+
+Built with ❤️ while learning and improving o
